@@ -1,2 +1,2 @@
 # JaimeeLeeWebsite
- A personal portfolio
+ Personal Portfolio
