@@ -10,7 +10,7 @@
 
 body {
 
-    background-image: url(../images/background.jpg);
+    background-image: url(../images/background3.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: 100%;
@@ -105,7 +105,7 @@ a:hover{
 }
 
 .heading_buffer{
-    padding-top: 100px;
+    padding-top:0px;
     padding-bottom: 20px;
 }
 /* -------------------- LAYOUTS */
@@ -230,6 +230,12 @@ main a:hover img{
 
 }
 
+.two-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+
+}
 
 
 .component-columns {
@@ -247,12 +253,6 @@ main a:hover img{
     }
 }
 
-.component-columns-text{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 50px;
-}
-  
     
 
 .line{
