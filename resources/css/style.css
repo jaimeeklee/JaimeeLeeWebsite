@@ -254,7 +254,12 @@ main a:hover img{
 }
 
     
+.one-line{
 
+text-align: center;
+padding-left: 100px;
+
+}
 .line{
 
     padding-left: 30px;
@@ -339,7 +344,7 @@ text-align:center;
 
 .content8{
 
- padding-top: 230px;
+ padding-top: 100px;
 
 align-items: center;
 }
